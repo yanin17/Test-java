@@ -4,10 +4,10 @@ public class Exercise1 {
     public static void main(String[] args) {
 
         // Input from a User
-        Scanner sc = new Scanner(System.in);
+        Scanner myObj = new Scanner(System.in);
         System.out.println("Enter your message :");
 
-        String str = sc.nextLine();
+        String str = myObj.nextLine();
         System.out.println("We got your String = " + str);
 
         // Get the character at position 0 and 10.

@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Exercise2 {
     public static void main(String[] args) {
         String str1 = "PHP Excercises and Python Exercises";
