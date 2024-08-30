@@ -23,24 +23,32 @@ Exercises8 : Test if an array contains a specific
 -> practise : contains() method -> to check data contains an array ? -> contains(array, data)
 
 Exercises9 : Remove a specific element from an array
+
 Exercises10 : Insert an element into an array
 -> practise : When we will print array with String. we will use toString() method
 
 Exercises11 : Swap two variables
+
 Exercises12 : Print a face
+
 Exercises13 : Fahrenheit to Celsius degree
+
 Exercises14 : Inches to meters
 
 Exercises15 : Adds all the digits
 -> practise : Using module.
 
 Exercises16 : Print the number of years and days From minutes
+
 Exercises17 : Compute (BMI)
 
 Exercises18 : Print the sum difference, product, average, distance, maximum and minimum
 -> practise : Print format
 
 Exercises19 : Find the greatest of three numbers
+
 Exercises20 : Display the multiplication table of a given integer
+
 Exercises21 : Display the pattern like right angle triangle
+
 Exercises22 : Display a pattern like a pyramid
