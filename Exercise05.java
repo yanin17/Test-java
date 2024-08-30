@@ -13,6 +13,9 @@ public class Exercise5 {
 
         // Display the value of char in the first position
         System.out.println("The first characeter is " + str.charAt(0) + "and the value is " + byte_arr[0]);
+
+        // getByte method - We get value of char (byte in ASCII)
+        // Mostly When we use it. We will declear the arr for content the valuse!
     }
 
 }

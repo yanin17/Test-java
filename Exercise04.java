@@ -15,5 +15,7 @@ public class Exercise4 {
         System.out.println("\"" + str1 + "\" ends with " + "\"" + end_str + "\"? " + ends1);
         System.out.println("\"" + str2 + "\" ends with " + "\"" + end_str + "\"? " + ends2);
 
+        // endsWith method - check avaible of ending that String ?
+
     }
 }

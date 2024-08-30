@@ -9,4 +9,6 @@ public class Exercise6 {
 
         System.out.println("The sum is " + sum);
     }
+
+    // Sum in array
 }
